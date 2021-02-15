@@ -1,5 +1,5 @@
 ---
-title:"Another hello world!"
+title: "Another hello world!"
 date: "2021-02-16"
 ---
 
